@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Adding two numbers \n";
-	int a = 10;
+	cout << "My first program to add two numbers \n";
+	int a = 20;
 	int b = 20;
 	int c = a + b;
 	cout << a << " + " << b << " = " << c <<"\n";
@@ -14,7 +14,5 @@ int main()
 	for ( int i = 0; i < 5; i++)
 	{
 		cout << lst[i] << " ";
-
 	}
 }
-
