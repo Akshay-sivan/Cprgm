@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World!\n";
+	cout << "Adding two numbers \n";
 	int a = 10;
 	int b = 20;
 	int c = a + b;
